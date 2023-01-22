@@ -1,4 +1,4 @@
-module greenlight.zhaksylyk.kz
+module greenlight.shoki52.kz
 
 go 1.19
 
